@@ -1,6 +1,6 @@
 # Breast Ultrasound Lesion Classification (BUSI Dataset)
 
-**Student:** José Tuozzo  
+**Students:** José Tuozzo  
 **Course:** ITAI 1378 — Computer Vision & AI  
 **Project Tier:** Tier 2 — Applied Medical CV Project  
 
