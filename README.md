@@ -125,11 +125,19 @@ Model training, coding, and evaluation will be self-implemented.
 ## 📎 Folder Structure
 
 project/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── notebooks/
+
 │ └── 01_exploration.ipynb
+
 ├── data/
+
 │ └── README.md
+
 └── docs/
+
 └── proposal.pdf
